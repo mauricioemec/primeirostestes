@@ -1,0 +1,7 @@
+{
+  "name": "Primeiro_app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
